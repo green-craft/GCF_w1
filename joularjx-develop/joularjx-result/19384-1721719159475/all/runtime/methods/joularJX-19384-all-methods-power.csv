@@ -1,0 +1,14 @@
+java.lang.Object.wait,0.0000
+java.lang.ref.Reference.waitForReferencePendingList,0.0000
+java.util.concurrent.ConcurrentHashMap.computeIfAbsent,0.0027
+java.net.NetworkInterface.getAll,0.0134
+java.util.Formatter$FormatSpecifier.localizedMagnitude,0.0036
+java.util.Formatter$FormatSpecifier.<init>,0.0036
+java.util.concurrent.ConcurrentHashMap$Traverser.advance,0.0071
+java.io.FileOutputStream.writeBytes,0.0036
+java.io.BufferedWriter.write,0.0036
+sun.nio.ch.FileDispatcherImpl.write0,0.0036
+javax.management.openmbean.CompositeDataSupport.getAll,0.0000
+java.lang.Thread.start0,0.0001
+sun.nio.ch.WEPoll.wait,0.0000
+sun.nio.ch.Net.accept,0.0000

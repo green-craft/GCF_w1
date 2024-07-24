@@ -1,0 +1,15 @@
+org.springframework.samples.petclinic.owner.PetController.findOwner,0.1299
+org.springframework.samples.petclinic.owner.PetController.initCreationForm,0.0118
+org.springframework.samples.petclinic.PetClinicApplication.main,36.9589
+org.springframework.samples.petclinic.owner.Owner.getCity,0.0047
+org.springframework.samples.petclinic.PetClinicApplication$$SpringCGLIB$$0.CGLIB$STATICHOOK1,0.0078
+org.springframework.samples.petclinic.vet.Vet.getSpecialties,0.0453
+org.springframework.samples.petclinic.owner.OwnerController.showOwner,0.1059
+org.springframework.samples.petclinic.owner.PetTypeFormatter.parse,0.1773
+org.springframework.samples.petclinic.owner.PetController.processCreationForm,0.8600
+org.springframework.samples.petclinic.owner.PetController.populatePetTypes,0.1181
+org.springframework.samples.petclinic.owner.OwnerController.findOwner,0.6442
+org.springframework.samples.petclinic.system.CacheConfiguration.petclinicCacheConfigurationCustomizer,0.0026
+org.springframework.samples.petclinic.owner.OwnerController.findPaginatedForOwnersLastName,2.2154
+org.springframework.samples.petclinic.vet.VetController.findPaginated,0.8162
+org.springframework.samples.petclinic.owner.PetController.initPetBinder,0.0118
