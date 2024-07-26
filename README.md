@@ -1,7 +1,11 @@
 # GCF_w1
 Zero to one
 
-Step 1: Clone the repo
+Step 1: Clone the repo, then go to joularjx-develop/config.properties change powermonitor-path to your own local path
+```
+![image](https://github.com/user-attachments/assets/60e79223-1142-48e5-b69d-137d4c74b881)
+
+```
 Step 2: To build JoularJX, you need Java 11+ and Maven, then just build: [refering to the joularjx-develop folder]
 
 ```
